@@ -9,5 +9,12 @@ public class Calculator
 		
 
 	}
+	
+	public int sub(int num3, int num4) 
+	{
+		int ans2 = num3 - num4;
+		
+		return ans2;
+	}
 
 }
